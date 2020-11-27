@@ -1,0 +1,15 @@
+{
+  "name": "pnp-api-wrapper",
+  "version": "0.0.1",
+  "description": "PNP API wrapper for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pnp@proxynetworkpro.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "homepage": "https://github.com/pnp-force/pnp-api-wrapper-node"
+}
